@@ -1,6 +1,6 @@
 # Working Good Health Pass Vocabulary
 
-- https://www.github.com/SemanticClarity/ghp-vocabulary
+- https://www.semanticclarity.githib.io/ghp-vocabulary
 
 ## Maintainers
 
