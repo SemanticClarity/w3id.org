@@ -2,7 +2,7 @@
 # ghp Vocabulary
 #
 # homepage:
-#   https://github.com/SemanticClarity/ghp-vocabulary/
+#   https://semanticclarity.github.io/ghp-vocabulary/
 # maintainers:
 #   jwalker
 #   mukundanps
@@ -11,5 +11,5 @@ Header set Access-Control-Allow-Origin *
 Header set Access-Control-Allow-Headers DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified$
 Options +FollowSymLinks
 RewriteEngine on
-RewriteRule ^$ https://github.com/SemanticClarity/ghp-vocabulary [R=302,L]
-RewriteRule ^v1$ https://github.com/SemanticClarity/ghp-vocabulary/context/v1/index.json [R=302,L]
+RewriteRule ^$ https://semanticclarity.github.io/ghp-vocabulary/ [R=302,L]
+RewriteRule ^ghp-context$ https://semanticclarity.github.io/ghp-vocabulary/docs/CA/ghp-ca.context.jsonld [R=302,L]
