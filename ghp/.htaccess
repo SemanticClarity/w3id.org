@@ -12,4 +12,4 @@ Header set Access-Control-Allow-Headers DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,
 Options +FollowSymLinks
 RewriteEngine on
 RewriteRule ^$ https://semanticclarity.github.io/ghp-vocabulary/ [R=302,L]
-RewriteRule ^ghp-context$ https://semanticclarity.github.io/ghp-vocabulary/docs/CA/ghp-ca.context.jsonld [R=302,L]
+RewriteRule ^ghp-vocabulary/CA/(.*)$ https://semanticclarity.github.io/ghp-vocabulary/docs/CA/$1 [R=302,L]
