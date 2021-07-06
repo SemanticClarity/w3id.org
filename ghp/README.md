@@ -4,5 +4,5 @@
 
 ## Maintainers
 
-- John Walker
-- Mukundanps
+- John Walker jwalker@semanticclarity.com
+- Mukundanps mukundanps@gmail.com
