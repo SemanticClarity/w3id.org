@@ -5,5 +5,5 @@
 ## Maintainers
 John Walker, Principal SemanticClarity
 - John Walker jwalker@semanticclarity.com
-- GitHub jtwalker2000
+- GitHub: jtwalker2000
 - Mukundanps mukundanps@gmail.com
